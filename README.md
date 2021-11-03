@@ -1,6 +1,6 @@
-### Hi there 👋
+## Salut, je suis Jey 👋🏾 👩🏾‍💻
+<img src="https://raw.githubusercontent.com/katana9108/katana9108/master/gh-header-image-cropped.png" alt="banner that says Jeffry Gayvin - Full stack development">
 
-<!--
 **katana9108/katana9108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ..
+- ## My github stats
+- [![katana9108 's GitHub stats](https://github-readme-stats.vercel.app/api?username=katana9108 )](https://github.com/katana9108 /github-readme-stats)
+
+
