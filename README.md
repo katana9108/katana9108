@@ -31,6 +31,8 @@
 
 - ## My github stats 
 ![katana9108's GitHub stats](https://github-readme-stats.vercel.app/api?username=katana9108&count_private=true&show_icons=true&theme=radical)
+- ## Find me around the web 🌎: 
+
 
 
 
