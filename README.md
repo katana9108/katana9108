@@ -1,4 +1,4 @@
-## Hi, I'm Jey 👋🏾 👩🏾‍💻
+## Hi, I'm Jey 👋🏾
 - I'm a Full stack developer, development is passionate. I am a very sociable person motivated and especially liking the team work because alone we are nobody 😄.
 - 🔭 I’m currently working on : Covid tracker and medical application
 - 🌱 I’m currently learning Java
@@ -34,6 +34,7 @@
 - ## My github stats 
 ![katana9108's GitHub stats](https://github-readme-stats.vercel.app/api?username=katana9108&count_private=true&show_icons=true&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katana9108&theme=monokai)
+## 🚀 My commits per day:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=katana9108&theme=monokai)
 - ## Find me around the web 🌎: 
 
