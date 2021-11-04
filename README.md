@@ -1,6 +1,6 @@
 ## Salut, je suis Jey 👋🏾 👩🏾‍💻
 
-- 🔭 I’m currently working on : Covid tracker, Twitter clone and medical application
+- 🔭 I’m currently working on : Covid tracker and medical application
 - 🌱 I’m currently learning Java
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
