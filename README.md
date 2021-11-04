@@ -36,7 +36,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katana9108&theme=monokai)
 ## 🚀 My commits per day:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=katana9108&theme=monokai)
-- ## Find me around the web 🌎: 
+<!-- ## Find me around the web 🌎: -->
 
 
 
