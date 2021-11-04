@@ -1,4 +1,4 @@
-## Salut, je suis Jey 👋🏾 👩🏾‍💻
+## Hi, I'm Jey 👋🏾 👩🏾‍💻
 - I'm a Full stack developer, development is passionate. Some technologies I enjoy working with include laravel,ReactJS and some one technologie.
 - 🔭 I’m currently working on : Covid tracker and medical application
 - 🌱 I’m currently learning Java
