@@ -34,7 +34,7 @@
 - ## My github stats 
 ![katana9108's GitHub stats](https://github-readme-stats.vercel.app/api?username=katana9108&count_private=true&show_icons=true&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katana9108&theme=monokai)
-## 🚀 My commits per day:
+- ## 🚀 My commits per day:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=katana9108&theme=monokai)
 <!-- ## Find me around the web 🌎: -->
 
