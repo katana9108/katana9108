@@ -1,6 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jeffry Gayvin N'some Minko</h1>
-<h3 align="center">Fullstack developer with strong skills in PHP, Laravel, JavaScript, ReactJS, and MySQL. Proficient in building scalable, high-performance web applications. Experienced in designing and implementing REST APIs and database design. Skilled in agile software development methodologies and continuous integration/continuous delivery (CI/CD) practices. Comfortable working in a team or independently and able to troubleshoot and debug complex issues.</h3>
+<h3 align="center">Fullstack developer with strong skills in PHP, Laravel, JavaScript, ReactJS, and MySQL. Proficient in building scalable, high-performance web applications. Experienced in designing and implementing REST APIs and database design.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katana9108&label=Profile%20views&color=0e75b6&style=flat" alt="katana9108" /> </p>
