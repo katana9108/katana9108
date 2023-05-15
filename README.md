@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on **E-commerce plateform**
 
-- 🌱 I’m currently learning **VueJS and ThreeJs**
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/jeffry-gayvin-n-some-minko-507365144/](https://www.linkedin.com/in/jeffry-gayvin-n-some-minko-507365144/)
+- 🌱 I’m currently learning **Inertia**
 
 - 💬 Ask me about **Vue.js uses a template-based syntax, similar to that of AngularJS, which allows you to bind data to the template and update the view as the data changes.It is often used in combination with other technologies, such as VR or AR, to create immersive 3D experiences.**
 
