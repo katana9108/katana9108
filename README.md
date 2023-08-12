@@ -40,7 +40,6 @@
 
 ###
 
-<img align="right" height="100%" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -74,9 +73,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/katana9108/katana9108/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ###
