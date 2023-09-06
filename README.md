@@ -4,10 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://www.linkedin.com/in/jeffry-gayvin-n%E2%80%99some-minko-507365144/" height="25" alt="linkedin logo"  />
-  <img src="https://twitter.com/jey_gayvin" height="25" alt="twitter logo"  />
-</div>
 
 ###
 ###
